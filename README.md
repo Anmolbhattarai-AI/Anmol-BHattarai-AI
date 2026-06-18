@@ -4,7 +4,7 @@ Computer Science and Engineering student at BMS College of Engineering (BMSCE), 
 
 ## About Me
 
-I am passionate about Artificial Intelligence, Machine Learning, Explainable AI (XAI), Healthcare AI, Deep Learning, and Retrieval-Augmented Generation (RAG) systems.
+I am passionate about Artificial Intelligence, Machine Learning, Explainable AI (XAI), Healthcare AI, Deep Learning, and Retrieval-Augmented Generation (RAG) systems. 
 
 Currently working on AI-driven healthcare solutions and research projects focused on trustworthy and interpretable machine learning.
 
